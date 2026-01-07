@@ -5,7 +5,7 @@ mediante **ping continuo** a distintas bases y playas operativas.
 
 ## 🖥️ Interfaz
 
-![Interfaz del Panel de Conectividad](interfaz.png)
+![Interfaz del Panel de Conectividad](Interfaz.png)
 
 ## 🚀 Funcionalidades
 
